@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LiquidIsland</string>
+    <string name="accessibility_description">Used to detect system events for the Dynamic Island overlay.</string>
+</resources>
